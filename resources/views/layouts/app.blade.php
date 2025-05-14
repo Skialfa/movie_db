@@ -8,7 +8,7 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container">
-            <a class="navbar-brand" href="/">🎬 Movie DB</a>
+            <a class="navbar-brand" href="/">🎬 LayarKaca21</a>
         </div>
     </nav>
 
@@ -17,7 +17,7 @@
     </main>
 
     <footer class="text-center py-3 bg-light">
-        <small>&copy; {{ date('Y') }} Movie DB</small>
+        <small>&copy; {{ date('Y') }} LayarKaca21 Copyright by Dimas Aditya Ramadhan</small>
     </footer>
 </body>
 </html>

@@ -10,6 +10,18 @@
         <div class="container">
             <a class="navbar-brand" href="/">🎬 LayarKaca21</a>
         </div>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#">Home</a>
+            </li>
+          </ul>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#">Watchlist</a>
+            </li>
+          </ul>
     </nav>
 
     <main class="container my-5">
